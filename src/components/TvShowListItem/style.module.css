@@ -1,0 +1,18 @@
+.container {
+  position: relative;
+  cursor: pointer;
+}
+.img {
+  border-radius: 10px;
+}
+.title {
+  position: absolute;
+  margin-top: -40px;
+  padding-left: 10px;
+  height: 40px;
+  width: 300px;
+  padding-top: 8px;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
